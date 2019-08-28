@@ -2,7 +2,7 @@
 An attempt to copy MS Paint using OpenGL.
 # Compile using following command
 ```
-g++ 2.cpp -lGL -lGLU -lglut
+g++ OpenglPaint.cpp -lGL -lGLU -lglut
 ```
 ## Instruction for usage
 Left click to add points to polygon.  
